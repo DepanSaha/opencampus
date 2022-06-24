@@ -13,7 +13,7 @@
     "@emotion/styled": "^11",
     "@hookform/resolvers": "^2.8.8",
     "@reduxjs/toolkit": "^1.8.1",
-    "firebase": "^9.8.1",
+    "firebase": "^9.8.4",
     "framer-motion": "^6",
     "md5-hex": "^4.0.0",
     "normalizr": "^3.6.2",
